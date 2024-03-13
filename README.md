@@ -29,6 +29,7 @@ Key Findings
 Successfully reconstructed the employee database for Pewlett Hackard's employees from the 1980s and 1990s.
 Identified key employee data points, including salary information, departmental assignments, and management structures.
 Provided insights into hiring trends, departmental distributions, and commonality of employee last names. Some of the analysis queries were complex, requiring joins across multiple tables. Strategic use of SQL functions and careful query planning ensured accurate and efficient data retrieval.
+
 Conclusion
 
 This project highlights the versatility of SQL in managing and analyzing large datasets. Through meticulous planning and execution, we have provided Pewlett Hackard with valuable insights into their historical employee data, paving the way for informed decision-making based on comprehensive data analysis.
